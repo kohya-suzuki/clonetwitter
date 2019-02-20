@@ -12,5 +12,5 @@
 */
 
 Route::get('foo', function () {
-    return "foo!();
+    return "foo!"();
     });
